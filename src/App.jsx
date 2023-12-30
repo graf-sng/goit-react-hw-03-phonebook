@@ -1,7 +1,7 @@
-import AccountList from 'components/AccountList/AccountList';
-import Filter from 'components/Filter/Filter';
-import FilterList from 'components/FilterList/FilterList';
-import Form from 'components/Form/Form';
+import AccountList from './components/AccountList/AccountList';
+import Filter from './components/Filter/Filter';
+import FilterList from './components/FilterList/FilterList';
+import Form from './components/Form/Form';
 import { nanoid } from 'nanoid';
 import { Component } from 'react';
 
