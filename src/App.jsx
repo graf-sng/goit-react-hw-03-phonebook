@@ -1,4 +1,3 @@
-import { click } from '@testing-library/user-event/dist/click';
 import AccountList from 'components/AccountList/AccountList';
 import Filter from 'components/Filter/Filter';
 import FilterList from 'components/FilterList/FilterList';
