@@ -1,4 +1,4 @@
-import FilterItem from 'components/FilterItem/FilterItem';
+import FilterItem from '../FilterItem/FilterItem';
 
 const FilterList = ({ contacts, deleteContact }) => {
   return (
