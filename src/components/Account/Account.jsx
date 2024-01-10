@@ -1,7 +1,7 @@
-const Account = ({ account, id }) => {
+const Account = ({ account }) => {
   return (
     <>
-      <li key={id}>
+      <li>
         {account.name} || {account.tel}
       </li>
     </>

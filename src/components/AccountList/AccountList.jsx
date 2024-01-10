@@ -4,7 +4,7 @@ const AccountList = ({ account }) => {
   return (
     <ul>
       {account.map(el => (
-        <Account account={el} id={el.id} />
+        <Account account={el} key={el.id} />
       ))}
     </ul>
   );
